@@ -13,7 +13,7 @@ setup(name='sem',
             'scipy',
             'tqdm',
             'tensorflow',
-            'sklearn',
+            'scikit-learn',
       ],
       zip_safe=False
       )
