@@ -2,7 +2,7 @@ numpy
 scipy
 tqdm
 tensorflow
-sklearn
+scikit-learn
 matplotlib
 seaborn
 pandas
